@@ -7,3 +7,5 @@ print('I am again making changes to learn about difftool')
 print('I am again making changes to learn about undo commited changes')
 
 print('I am again making changes to learn about undo branching')
+
+print('I am again making changes to learn about HEAD')
