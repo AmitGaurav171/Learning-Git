@@ -10,4 +10,8 @@ print('I am again making changes to learn about undo branching')
 
 print('I am again making changes to learn about HEAD')
 
+<<<<<<< HEAD
 print('I am again making changes to learn about git difftool')
+=======
+print('I am again making changes to learn about mergetool')
+>>>>>>> 51c9667ba22962e2f0efec6ae6421d42ba1bde93
