@@ -11,3 +11,5 @@ print('I am again making changes to learn about undo branching')
 print('I am again making changes to learn about HEAD')
 
 print('I am again making changes to learn about mergetool')
+
+print('I am again making changes to learn about difftool also')
