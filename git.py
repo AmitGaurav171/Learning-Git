@@ -16,3 +16,5 @@ print('I am again making changes to learn about git difftool')
 print('I am again making changes to learn about mergetool')
 
 print('I am again making changes to learn about difftool also')
+
+print('I am revising git to brush up the basics')
